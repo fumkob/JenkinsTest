@@ -24,6 +24,10 @@ class JenkinsTestTests: XCTestCase {
         // Use XCTAssert and related functions to verify your tests produce the correct results.
         XCTAssertTrue(true)
     }
+    
+    func testExample2() {
+        XCTAssertTrue(true)
+    }
 
     func testPerformanceExample() throws {
         // This is an example of a performance test case.
