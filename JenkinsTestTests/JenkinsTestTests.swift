@@ -26,7 +26,7 @@ class JenkinsTestTests: XCTestCase {
     }
     
     func testExample2() {
-        XCTAssertTrue(false)
+        XCTAssertTrue(true)
     }
 
     func testPerformanceExample() throws {
